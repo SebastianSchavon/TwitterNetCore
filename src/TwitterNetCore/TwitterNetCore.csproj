@@ -10,4 +10,7 @@
       <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     </ItemGroup>
 
+    <ItemGroup>
+        <PackageTags>twitter;api;v2;c#;.net;dotnet;netcore;core;twitternetcore;api;</PackageTags>
+    </ItemGroup>
 </Project>
