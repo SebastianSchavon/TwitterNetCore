@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterNetCore", "TwitterNetCore\TwitterNetCore.csproj", "{8ED33B06-E401-4DF6-B343-7D55709075F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{3B8D0041-B84A-4AFF-8DCC-0A83830CADDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{B1D9FDF5-720C-4F9E-81F7-4151EB51A048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED33B06-E401-4DF6-B343-7D55709075F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED33B06-E401-4DF6-B343-7D55709075F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED33B06-E401-4DF6-B343-7D55709075F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED33B06-E401-4DF6-B343-7D55709075F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8D0041-B84A-4AFF-8DCC-0A83830CADDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8D0041-B84A-4AFF-8DCC-0A83830CADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8D0041-B84A-4AFF-8DCC-0A83830CADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8D0041-B84A-4AFF-8DCC-0A83830CADDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D9FDF5-720C-4F9E-81F7-4151EB51A048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D9FDF5-720C-4F9E-81F7-4151EB51A048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D9FDF5-720C-4F9E-81F7-4151EB51A048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D9FDF5-720C-4F9E-81F7-4151EB51A048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
