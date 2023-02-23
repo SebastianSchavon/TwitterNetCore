@@ -11,6 +11,6 @@
     </ItemGroup>
 
     <PropertyGroup>
-        <PackageTags>twitter;api;v2;c#;.net;dotnet;netcore;core;twitternetcore;api;</PackageTags>
+        <PackageTags>twitterbot;twitter;twitterapi;dotnet;.net;dotnet;netcore;core;twitternetcore;api;v2</PackageTags>
     </PropertyGroup>
 </Project>
