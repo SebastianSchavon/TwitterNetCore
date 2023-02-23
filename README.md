@@ -1,9 +1,9 @@
 # TwitterNetCore
 
-|Description      |Link        |
-|-----------------|------------|
-|Build            |[![Deploy to NuGet](https://github.com/SebastianSchavon/TwitterNetCore/actions/workflows/main.yml/badge.svg)](https://github.com/SebastianSchavon/TwitterNetCore/actions/workflows/main.yml)|
-|Nuget            |![Nuget](https://img.shields.io/nuget/v/TwitterNetCore)|
+| Description | Link                                                                                                                                                                                         |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Build       | [![Deploy to NuGet](https://github.com/SebastianSchavon/TwitterNetCore/actions/workflows/main.yml/badge.svg)](https://github.com/SebastianSchavon/TwitterNetCore/actions/workflows/main.yml) |
+| Nuget       | [![Nuget](https://img.shields.io/nuget/v/TwitterNetCore)](https://www.nuget.org/packages/TwitterNetCore)                                                                                     |                                                                                |
 
 
 ## About
