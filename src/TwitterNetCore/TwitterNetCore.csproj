@@ -15,16 +15,10 @@
         <PackageTags>twitterbot;twitter;twitterapi;dotnet;.net;dotnet;netcore;core;twitternetcore;api;v2</PackageTags>
         <RepositoryUrl>https://github.com/SebastianSchavon/TwitterNetCore</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
     </PropertyGroup>
     
-    <ItemGroup>
-        <None Include="..\..\LICENSE">
-            <Pack>True</Pack>
-            <PackagePath></PackagePath>
-        </None>
-    </ItemGroup>
+
     
 </Project>
